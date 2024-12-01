@@ -1,0 +1,1 @@
+ALTER TABLE `user_expenses` ADD `settled` text DEFAULT false;
