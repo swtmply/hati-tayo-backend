@@ -41,7 +41,7 @@ Hati-Tayo Backend is the server-side application that powers the Hati-Tayo mobil
 1. Start the development server:
 
 ```bash
-  bun start
+  bun dev
   # or
   npm run dev
 ```
